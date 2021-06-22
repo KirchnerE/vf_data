@@ -1,5 +1,5 @@
 {
-  "data": [
+  "data": {
     {
 	"routes-size": 3,
 	"fastest-route": 2,
@@ -34,6 +34,6 @@
 		}
 	]
 	}
-]
+}
 }
 		
