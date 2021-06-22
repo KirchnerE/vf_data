@@ -1,7 +1,7 @@
 {
   "data": [
     {
-	"routes.size": 3,
+	"routes-size": 3,
 	"fastest-route": 2,
 	"trafficsit": "jam_not-fastest-route",
 	"routes": [
