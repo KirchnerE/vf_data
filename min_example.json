@@ -12,40 +12,28 @@
 		"durationTypical": 601.548,
 		"delay_seconds": 458.088,
 		"delay": 7.6348,
-		"color": "red",
-		
-		"legs": [
-			{
-			
-			}
-		],
+		"color": "red"
+		},
+		{
 		"route": 2,
 		"distance": 8000,
 		"duration": 800,
 		"durationTypical": 800,
 		"delay_seconds": 0,
 		"delay": 0,
-		"color": "blue",
-		"legs": [
-			{
-			
-			}
-		],
-		
+		"color": "blue"
+		},
+		{
 		"route": 3,
 		"distance": 7500,
 		"duration": 1000,
 		"durationTypical": 900,
 		"delay_seconds": 100,
 		"delay": 1.6667,
-		"color": "green",
-		"legs": [
-			{
-			
-			}
-		],
-
-	],
-	}
+		"color": "green"
+		}
 	]
+	}
+]
 }
+		
